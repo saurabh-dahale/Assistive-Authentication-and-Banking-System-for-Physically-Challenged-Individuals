@@ -1,3 +1,5 @@
+# Assistive-Authentication-and-Banking-System-for-Physically-Challenged-Individuals
+
 This is a minimalistic banking authentication system and user interface which can be
 easily navigated by individuals with some form of physical disability. People who are not able to
 use the traditional input devices like mouse and keyboard have no proper way to utilize and
@@ -14,5 +16,5 @@ would be a webcam which is now present in every smartphone and computer.
 
 System Model
 
-<img width="468" alt="image" src="https://github.com/user-attachments/assets/c15be7b3-8f4c-4af4-9aa2-b29a42ff7414" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/c15be7b3-8f4c-4af4-9aa2-b29a42ff7414" />
 
